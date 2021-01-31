@@ -1,0 +1,16 @@
+.a{
+    box-shadow: 0 0 2px 2px whitesmoke;
+    position: relative;
+    left: 35px;
+}
+input{
+    box-shadow: 0 0 2px 2px whitesmoke;
+    position: relative;
+    left: 10px;
+}
+body{
+    background-color: RGB(23, 25, 31);
+}
+p{
+    color: ivory;
+}
