@@ -1,0 +1,26 @@
+.head{
+    background-color: rgb(166, 190, 197);
+    height: 200px;
+    margin-bottom: 10px;
+
+}
+.sidebar{
+    background-color: rgb(166, 190, 197);
+    height: 500px;
+    margin-bottom: 10px;
+    width: 25%;
+    float: left;
+
+}
+.content{
+    background-color: rgb(166, 190, 197);
+    height: 500px;
+    margin-bottom: 8px;
+    float: right;
+    width: 70%;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+body{
+    background-color: rgb(23, 25, 31)
+}
