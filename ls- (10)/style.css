@@ -1,0 +1,102 @@
+.a{
+    background-color: aquamarine;
+    height: 600px;
+    width: 600px;
+}
+.b{
+    background-color: rgb(219, 136, 11);
+    height: 200px;
+    width: 600px; 
+}
+.c{
+background-color: rgb(241, 10, 10);
+height: 200px;
+width: 600px;
+}
+.d{
+background-color: rgb(71, 8, 187);
+height: 200px;
+width: 600px;
+}
+.a2{
+    background-color: rgb(11, 219, 39);
+    height: 600px;
+    width: 600px;
+    margin-top: 20px; 
+}
+.b2{
+    background-color: rgb(95, 153, 102);
+    height: 200px;
+    width: 600px;
+    display: flex;
+}
+.z{
+    background-color: rgb(73, 11, 58);
+    height: 200px;
+    width: 200px;
+}
+.z1{
+    background-color: rgb(68, 30, 4);
+    height: 200px;
+    width: 200px;
+}
+.z2{
+    background-color: rgb(24, 2, 49);
+    height: 200px;
+    width: 200px;
+}
+.c2{
+    background-color: rgb(11, 219, 39);
+    height: 200px;
+    width: 600px;
+}
+.b2{
+    background-color: rgb(79, 5, 252);
+    height: 200px;
+    width: 600px;
+    display: flex;
+}
+.x{
+    background-color: rgb(143, 126, 161);
+    height: 200px;
+    width: 300px;
+    float: left;
+}
+.x1{
+    background-color: rgb(201, 94, 94);
+    height: 200px;
+    width: 300px;
+    float: right;
+    display: flex;
+}
+.a3{
+        background-color: tomato;
+        height: 300px;
+        width: 600px;
+        margin-top: 20px;
+        display: flex;
+        justify-content: space-around;
+}
+.n{
+        background-color: thistle;
+        height: 150px;
+        width: 150px;
+        margin-left: 30px;
+        margin-right: 30px;
+        margin-top: 75px;
+}
+.n1{
+        background-color: yellowgreen;
+        height: 150px;
+        width: 150px;
+        margin-left: 30px;
+        margin-top: 75px;
+}
+.n2{
+        background-color: black;
+        height: 150px;
+        width: 150px;
+        margin-top: 75px;
+        margin-left: 50px;
+        margin-right: 30px;
+}
