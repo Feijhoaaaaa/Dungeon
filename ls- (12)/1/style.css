@@ -1,0 +1,43 @@
+.a{
+    display: flex;
+
+}
+.b{
+   background-color: beige;
+   width: 400px;
+   height: 200px;
+   display: flex;
+   position: relative;
+   top: 100px;
+   left: 50px; 
+}
+img {
+    height: 290px;
+    width: 290px;
+    display: block ;
+    position: relative;
+    bottom: 50px;
+}
+.text {
+    margin-top: 10px;
+    font-size: 20px;
+    text-shadow: 6px 6px 0px rgba(0, 0, 0, 2) ;
+}
+.c {
+    background-color: darkorange ;
+    width: 400px;
+    height: 200px;
+    display: flex;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+.d {
+    background-color: goldenrod ;
+    width: 400px;
+    height: 200px;
+    display: flex;
+    position: relative;
+    top: 100px;
+    left: 150px;
+}

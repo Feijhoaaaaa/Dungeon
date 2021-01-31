@@ -1,0 +1,30 @@
+.a{
+    display: flex;
+}
+.b{
+    background-color: rgb(72, 109, 109);
+    width: 650px;
+    height: 450px;
+    margin :100px 100px ;
+    display: flex;
+}
+img{
+    height: 350px;
+    width: 350px;
+    display: block ;
+    position: relative;
+    top: 44px;
+}
+.c{
+    width: 550px;
+    height: 300px;
+    position: relative;
+    left: 20px;
+    color: aliceblue;
+}
+body{
+    background-color: rgb(57, 51, 65);
+}
+.a{
+    color: aliceblue;
+}
