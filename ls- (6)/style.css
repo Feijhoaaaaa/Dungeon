@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(23, 25,31);
+
+}
+h1{
+    color: rgb(253, 253, 253);
+    font-size: 80px;
+}
+a{
+    color: gold;
+    
+}
+div{
+    font-size: 20px;
+    color: beige;
+}
+h2{
+    color:beige;
+}
