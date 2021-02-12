@@ -1,0 +1,67 @@
+body{
+    background: linear-gradient(to right, rgb(87, 58, 190),  rgb(135, 199, 32) );
+}
+.asd{
+    width: 300px;
+    height: 300px;
+    transition: all 0.5s;
+    
+
+    
+    
+    
+}
+.asd:hover{
+    width: 400px;
+    height: 400px;
+    position: relative;;
+}
+.q{
+    
+    width: 130px;
+    height: 150px;
+    background: linear-gradient(to left, rgb(176, 224, 43), rgb(182, 120, 48));
+    border-radius: 10%;
+    transition: all 0.8s;
+    border-style: outset;
+    
+     
+}
+.q:hover{
+    width: 210px;
+    height: 230px;
+    background: linear-gradient(to left, rgb(176, 224, 43), rgb(182, 120, 48));
+}
+.qq{
+    display: flex;
+    justify-content: space-around; 
+
+}
+
+}
+.eee{
+    width: 50px;
+    height: 50px;
+    bottom: 150px;
+    transition: all 1s;
+    position: relative;
+   
+    
+}
+.eee:hover{
+    width: 100px;
+    height: 100px; 
+    /* bottom: 150px; 
+    position: relative;  */
+    
+}
+img{
+    width: 50px;
+    height: 50px;
+    transition: all 1s;
+    /*   */
+   
+    /* transition: all 0.5s; */
+    
+    
+}

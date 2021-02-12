@@ -1,0 +1,34 @@
+*{
+    margin: 0 auto; 
+}
+.a{
+     width: 100%;
+      
+}
+.a1{
+    width: 1404px;
+    height: 255px;
+    background-color: black;
+}
+
+.d{
+    width: 245px;
+    height: 511px;
+    background-color: blue;
+    margin-left: 224px;
+    margin-top: 17px;
+ 
+
+}
+.f{
+    width: 1134px;
+    height: 510px;
+    background-color:brown;
+    margin-right: 225px;
+    margin-top: 18px;
+}
+
+.s{
+    width: 100%;
+    display: flex;
+}

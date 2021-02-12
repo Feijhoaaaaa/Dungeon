@@ -1,0 +1,150 @@
+.a{
+    text-decoration: none;
+    transition:all 1s;
+}
+.a:hover{
+    color: blue;
+    transition: all 1s;
+    font-size: 50px;
+
+}
+.a:active{
+    color: red;
+}
+.a:visited{
+    color: black;
+}
+.a1{
+    text-decoration: none;
+    transition: all 1s;
+}
+.a1:hover{
+    color: blue;
+    transition: all 1s;
+    font-size: 50px
+}
+.a1:active{
+    color: indigo;
+}
+.a1:visited{
+    color: black;
+}
+.a2{
+    text-decoration: none;
+    transition: all 1s;
+}
+.a2:hover{
+    color: blue;
+    transition: all 1s;
+    font-size: 50px;
+}
+.a2:active{
+    color: gold;
+}
+.a2:visited{
+    color: black;
+}.a3{
+    text-decoration: none;
+    transition: all 1s;
+}
+.a3:hover{
+    color: blue;
+    transition: all 1s;
+    font-size: 50px;
+}
+.a3:active{
+    color: navajowhite;
+}
+.a3:visited{
+    color: black;
+}
+.a4{
+    text-decoration: none;
+    transition: all 1s;
+}
+.a4:hover{
+    color: blue;
+    transition: all 1s;
+    font-size: 50px;
+}
+.a4:active{
+    color: coral;
+}
+.a4:visited{
+    color: black;
+}
+.a5{
+    text-decoration: none;
+    transition: all 1s;
+}
+.a5:hover{
+    color: blue;
+    transition: all 1s;
+    font-size: 50px;
+}
+.a5:active{
+    color: darkcyan;
+}
+.a5:visited{
+    color: black;
+}
+.a6{
+    text-decoration: none;
+    transition: all 1s;
+}
+.a6:hover{
+    color: blue;
+    transition: all 1s;
+    font-size: 50px;
+}
+.a6:active{
+    color: yellow;
+}
+.a6:visited{
+    color: black;
+}
+.a7{
+    text-decoration: none;
+    transition: all 1s;
+}
+.a7:hover{
+    color: blue;
+    transition: all 1s;
+    font-size: 50px;
+}
+.a7:active{
+    color: purple;
+}
+.a7:visited{
+    color: black;
+}
+.a8{
+    text-decoration: none;
+    transition: all 1s;
+}
+.a8:hover{
+    color: blue;
+    transition: all 1s;
+    font-size: 50px;
+}
+.a8:active{
+    color: pink;
+}
+.a8:visited{
+    color: black;
+}
+.a9{
+    text-decoration: none;
+    transition: all 1s;
+}
+.a9:hover{
+    color: blue;
+    transition: all 1s;
+    font-size: 50px;
+}
+.a9:active{
+    color: violet;
+}
+.a9:visited{
+    color: black;
+}
