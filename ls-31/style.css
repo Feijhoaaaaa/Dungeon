@@ -1,0 +1,113 @@
+
+.asd{
+    width: 1200px;
+    height: 773px;
+    background-color: rgb(194, 30, 30) ;
+    opacity: 1;
+    margin: 0 auto;
+    display: block;
+    /* background-image: url(./img/загружено\ \(2\).png); */
+    background-size: 1200px 773px;
+    background-image: url(./img/загружено\ \(1\)\ \(1\).png);   
+
+    
+}
+.y {
+    display: flex;
+    justify-content: space-around;
+}
+.t1 {
+margin-top: 71px;
+}
+.t {
+    margin-top: -30px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+    font-family: 'Pacifico', cursive;
+}
+.t p{
+    font-family: 'Pacifico', cursive;
+    color: white;
+    font-size: 60px;
+
+}
+.zxc{
+   padding-top: 84px;
+   padding-left: 104px;
+   font-size: 50px;
+   
+}
+
+.vbn{
+    color: rgb(2, 4, 32);
+}
+.ert{
+    color: blanchedalmond;
+}
+.rty{
+    background-color: rgb(255, 255, 255);
+    width: 401px;
+    height: 521px;
+    border-radius: 5%;
+    margin-right: 104px;
+    margin-top: 35px;
+}
+.yui{
+    display: flex;
+}
+.qaz{
+    width: 354px;
+    height: 45px;
+    background-color: rgba(133, 128, 128, 0.021);
+    border-radius: 1%;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-left:rgb(2, 4, 32);
+    border-color: rgba(255, 255, 255, 0);
+}
+.rfv{
+    /* width: 354px;
+    height: 58px; */
+    margin-left: 100px;
+    margin-top: 40px;
+    /* font-family: 'Montserrat', sans-serif; */
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+.tgb{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 18px;
+    padding-left: 25px;
+    padding-top: 20px;
+}
+.rewq{
+    background-color: #C62314;
+    width: 345px;
+    height: 54px;
+    margin: 0 auto;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 25px;
+    border-color: rgba(212, 213, 224, 0.027);
+    border-radius: 3%;
+    
+}
+img{
+    opacity: 50%;
+}
+.rewq1{
+    padding-left: 24px;
+}
+.trewq{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+.plm{
+    width: 86px;
+    height: 38px;
+    background-color: #130E27;
+    border-radius: 15%;
+}
