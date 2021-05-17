@@ -1,0 +1,6 @@
+let mya = document.getElementById("button")
+    myc = document.getElementById("text1")
+    myd = document.getElementById("text2")
+mya.setAttribute("class","asd")
+myc.setAttribute("class", "dsa")
+myd.setAttribute("class","qwe")

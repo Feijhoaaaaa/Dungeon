@@ -1,0 +1,165 @@
+body{
+	background-color: rgb(23, 25, 31)
+}
+
+.main{
+	display: flex;
+
+}
+
+.card{
+	margin: 0 auto;
+	margin-top: 50px;
+	position:relative;
+	top: 50px;
+	margin-left: 1300px;
+}
+
+.card{
+	border: 1px;
+	border-radius: 2%;
+}
+
+.text1{
+	position: relative;
+	left: 280px;
+	color: white;
+	bottom: 249px;
+	font-size: 25px;
+}
+
+.input{
+	position:relative;
+	left: 65px;
+	bottom: 165px;
+	width: 320px;
+	height: 35px;
+	border: 2px solid green;
+	border-radius: 10px;
+	box-sizing: border-box;
+	background-color: black;
+	color: white;
+	padding: 12px 20px;
+}
+
+.holder{
+	color: silver;
+	position: relative;
+	bottom: 170px;
+	left: 25px;
+}
+
+.expire{
+	color: silver;
+	position: relative;
+	bottom: 205px;
+	left: 350px;
+}
+
+.block{
+	width: 500px;
+	height: 450px;
+	background-color: silver;
+	position: relative;
+	bottom: 200px;
+	right: 25px;
+	border-radius: 2%;
+}
+
+.input2{
+	margin-top: 55px;
+	margin-left: 150px;
+}
+
+input,label{
+	display:block;
+}
+
+.input2{
+	position:relative;
+	top: 50px;
+}
+
+.block {
+    display: inline-block;
+}
+ 
+input,
+label {
+    display: block;
+}
+
+.cardnumber{
+	margin-left: 100px;
+	font-size: 25px;
+	margin-top: 50px;
+	color:rgb(0, 0, 0);
+	font-family: 'Roboto', sans-serif;
+	
+}
+
+.cardnumb{
+	width: 300px;
+	height: 50px;
+	border-radius: 2px;
+	font-size: 25px;
+	border-radius: 7px;
+	font-family: 'Roboto', sans-serif;
+}
+
+::placeholder{
+	font-size: 25px;
+}
+
+.namae{
+	margin-left: 100px;
+	font-size: 25px;
+	margin-top: 50px;
+	color:rgb(0, 0, 0);
+	font-family: 'Roboto', sans-serif;
+}
+
+.name{
+	width: 300px;
+	height: 50px;
+	border-radius: 2px;
+	font-size: 25px;
+	border-radius: 7px;
+}
+
+.expire1{
+	margin-left: 65px;
+	margin-top: 30px;
+}
+
+.select{
+	margin-left: 30px;
+	margin-top: 50px;
+	font-size: 20px;
+	color: rgb(0, 0, 0);
+	font-family: 'Roboto', sans-serif;
+}
+
+.cvvi{
+	margin-left: 100px;
+	font-size: 25px;
+	margin-top: 50px;
+	color:rgb(0, 0, 0);
+	position:relative;
+	left: 175px;
+	bottom: 125px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.cvv{
+	width: 40px;
+	height: 30px;
+	border-radius: 2px;
+	font-size: 25px;
+	position:relative;
+	left: 25px;
+}
+
+img{
+	border-radius: 3%;
+}

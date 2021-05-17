@@ -1,0 +1,51 @@
+.asd{
+    background-color: rgb(23, 25, 31);
+    color: white;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 20px;
+    border-style: none;
+    
+}
+.asd:hover{
+    background-color: white;
+    color: black;
+    border-style: solid;
+}
+
+.dsa{
+    background-color: rgb(23, 25, 31);
+    color: white;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 20px;
+    border-style: none;
+    
+}
+.dsa:hover{
+    background-color: white;
+    color: black;
+    border-style: solid;
+}
+
+
+.qwe{
+    background-color: rgb(23, 25, 31);
+    color: white;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 20px;
+    border-style: none;
+    
+}
+.qwe:hover{
+    background-color: white;
+    color: black;
+    border-style: solid;
+}
