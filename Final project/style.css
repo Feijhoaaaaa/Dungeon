@@ -1,0 +1,513 @@
+body{
+    background-color: #ffffff;
+    margin: 0;
+}
+.Heder{
+    
+    background: rgba( 255, 255, 255, 0.70 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 9.0px );
+    -webkit-backdrop-filter: blur( 9.0px );
+    /* background-color: white; */
+    position: fixed;
+    height: 70px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: none;
+
+}
+.Logo{
+    opacity: 100%;
+    align-items: center;
+    opacity: 100%;
+    display: flex;
+    /* background: rgba( 255, 255, 255, 0.0 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 9.0px );
+    -webkit-backdrop-filter: blur( 9.0px ); */
+    width: 200px;
+    height: 70px;
+    background-size: 100% 100%;
+    background-image: url(./img/KFundSchool\ \(1\).png);
+    /* margin-left: 100px; */
+    border-style: none;
+    box-shadow: none;
+}
+
+a{
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    padding-left: 30px;
+    transition: 0.3s;
+    cursor: pointer;
+    
+}
+a:hover{
+    color: #007bff;
+}
+
+.Home{
+    margin-left: 100px;   
+}
+.Link{
+    display: flex;
+}
+.Section{  
+    height: 820px;
+    width: 100%;
+    display: flex;
+       
+}
+.h6{
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+}
+.ThisIsMe{
+    display: block;
+    width: 570px;
+    height: 600px;
+    
+    
+}
+.MyPhoto{
+    background-image: url(./img/MyPhotoV3.png);
+    width: 470px;
+    height: 600px;
+    background-size: 100% 100%;
+}
+.Block1{
+    padding-top: 140px;
+    margin: 0 auto;
+    width: 1140px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.7rem;
+
+}
+p{
+    font-family: 'Poppins', sans-serif;
+}
+.Button1{
+    background: -webkit-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
+    border-style: none;
+    width: 160px;
+    height: 42px;
+    font-family: 'Poppins', sans-serif;
+    transition: 0.3s;
+    color: white;
+
+}
+
+.MyPhoto1{
+    width: 470px;
+    height: 600px;
+    background-size: 100% 100%;
+    background-image: url(./img/MyPhoto1.2.png);
+}
+.MyOfferedServices{
+    width: 1140px;
+    height: 880px;
+    padding-top: 140px;
+    margin: 0 auto;
+}
+.Headline{
+    text-align: center;
+}
+h4{
+    font-family: 'Poppins', sans-serif;
+}
+
+.Services{
+    display: flex;
+    text-align: center;
+    padding-top: 60px;
+}
+.Tile1{
+    padding-left: 60px;
+}
+.Ico1{
+    margin: 0 auto;
+    background-image: url(./img/web-designLihgt.png);
+    width: 48px;
+    height: 48px;
+    background-size: 100% 100%;
+}
+.Ico2{
+    margin: 0 auto;
+    background-image: url(./img/web-developLight.png);
+    width: 48px;
+    height: 48px;
+    background-size: 100% 100%;
+}
+.Ico3{
+    margin: 0 auto;
+    background-image: url(./img/appsLight.png);
+    width: 48px;
+    height: 48px;
+    background-size: 100% 100%;
+}
+.Ico4{
+    margin: 0 auto;
+    background-image: url(./img/design-graphicLight.png);
+    width: 48px;
+    height: 48px;
+    background-size: 100% 100%;
+}
+.Ico5{
+    margin: 0 auto;
+    background-image: url(./img/backend-developLight.png);
+    width: 48px;
+    height: 48px;
+    background-size: 100% 100%;
+}
+.Ico6{
+    margin: 0 auto;
+    background-image: url(./img/frontend-developLight.png);
+    width: 48px;
+    height: 48px;
+    background-size: 100% 100%;
+}
+.MyWorks{
+    width: 100%;
+    margin: 0 auto;
+}
+.Grup{
+    display: flex;
+    margin: 0 auto;
+    padding-top: 140px;
+    justify-content: space-around;
+}
+.Card1{
+    width: 350px;
+    height: 350px;
+    border-radius: 20px;
+    background-color: tomato;
+    
+}
+.Card2{
+    width: 350px;
+    height: 350px;
+    border-radius: 20px;
+    background-color: peru;
+    
+}
+.Card3{
+    width: 350px;
+    height: 350px;
+    border-radius: 20px;
+    background-color: slateblue;
+    
+}
+.Card4{
+    width: 350px;
+    height: 350px;
+    border-radius: 20px;
+    background-color: #007bff;
+}
+.Card5{
+    width: 350px;
+    height: 350px;
+    border-radius: 20px;
+    background-color: yellow;
+    
+}
+.Card6{
+    width: 350px;
+    height: 350px;
+    border-radius: 20px;
+    background-color: brown;
+    
+}
+.BrandsPack{
+    height: 100%;
+    width: 1140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+
+}
+.Brand1{
+    width: 120px;
+    height: 70px;
+    background-image: url(./img/tild3032-3337-4533-b239-343731396237__lenovo-logo-2015.svg);
+    background-size: 100% 100%;
+}
+.Brand2{
+    width: 120px;
+    height: 70px;
+    background-image: url(./img/tild3337-3138-4434-a438-383133383431__main.png);
+    background-size: 100% 100%;
+    margin-left: 100px;
+}
+.Brand3{
+    width: 120px;
+    height: 70px;
+    background-image: url(./img/tild6233-3634-4233-b964-383838633935__logo-1.svg);
+    background-size: 100% 100%;
+    margin-left: 100px;
+}
+.Brand4{
+    width: 120px;
+    height: 70px;
+    background-image: url(./img/tild6364-6533-4739-a666-666366323733__tild3034-3861-4435-b.png);
+    background-size: 100% 100%;
+    margin-left: 100px;
+}
+.Brands{
+    margin-top: 140px;
+    width: 100%;
+    height: 230px;
+    background: -webkit-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
+}
+.Footer{
+    background-color: #04091e;
+    width: 100%;
+    height: 405px;
+}
+.Footer{
+    width: 100%;
+    color: white;
+    display: flex;
+}
+.Pillar{
+    padding-left: 60px;
+    padding-top: 140px;
+}
+.Send{
+    width: 280px;
+    height: 40px;
+    border-style: none;
+}
+.Enter{
+    display: flex;
+}
+.Button2{
+    background: -webkit-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
+    border-style: none;
+    width: 40px;
+    height: 42px;
+    font-family: 'Poppins', sans-serif;
+    transition: 0.3s;
+    color: white;
+}
+.ChangeButton{
+    width: 106px;
+    height: 21px;
+    margin-left: 30px;
+    border-style: none;
+    background-color: rgb(23, 25, 31);
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.FooterMargin0Auto{
+    margin: 0 auto;
+    display: flex;
+}
+.Slider{
+    height: 600px;
+    width: 1140px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+
+    
+
+}
+.Sliders{
+    
+    width: 1040px;
+    height: 100%;
+    display: flex;
+    border-radius: 10px;
+
+}
+
+.LeftSliderButton{
+    background: rgba( 255, 255, 255, 0.70 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 9.0px );
+    -webkit-backdrop-filter: blur( 9.0px );
+    border-style: none;
+    width: 50px;
+    height: 80px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 30px;
+}
+.RightSliderButton{
+    background: rgba( 255, 255, 255, 0.70 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 9.0px );
+    -webkit-backdrop-filter: blur( 9.0px );
+    border-style: none;
+    width: 50px;
+    height: 80px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 30px;
+}
+
+
+/* .slide1{
+    min-width: 1040px;
+    min-height: 600px;
+    display: flex;
+     background-color: cyan; 
+    background-image: url(./img/photo_2021-05-19_00-36-11.jpg);
+    background-size: 100%, 100%;
+}
+.slide2{
+    min-width: 1040px;
+    min-height: 600px;
+    display: none;
+    background-image: url(./img/photo_2021-05-19_00-39-26.jpg);
+    background-size: 100%, 100%;
+}
+.slide3{
+    width: 1040px;
+    height: 600px;
+    display: none;
+    background-image: url(./img/photo_2021-05-19_00-39-31.jpg);
+    background-size: 100%, 100%;
+}
+.slide4{
+    width: 1040px;
+    height: 600px;
+    display: none;
+    background-image: url();
+    background-size: 100%, 100%;
+}
+.slide5{
+    width: 1040px;
+    height: 600px;
+    display: none;
+    background-image: url();
+    background-size: 100%, 100%;
+}
+.slide6{
+    width: 1040px;
+    height: 600px;
+    display: none;
+    background-image: url();
+    background-size: 100%, 100%;
+} */
+
+.slide{
+    min-width: 1040px;
+    min-height: 600px;
+    display: flex;
+    transition: 1s;
+    /* background-color: cyan; */
+    /* background-image: url(./img/photo_2021-05-19_00-36-11.jpg); */
+    background-size: 100%, 100%;
+    
+}
+.slide:nth-child(1){
+    border-radius: 10px;
+    min-width: 1040px;
+    min-height: 600px;
+    display: flex;
+    /* background-color: cyan; */
+    background-color: #007bff;
+    background-image: url(./img/photo_2021-05-19_00-36-11.jpg);
+    
+    background-size: 100%, 100%;
+    
+}
+.slide:nth-child(2){
+    background-color: #8490ff;
+    border-radius: 10px;
+    min-width: 1040px;
+    min-height: 600px;
+    display: none;
+    /* background-color: cyan; */
+    background-image: url(./img/photo_2021-05-19_00-39-26.jpg);
+    background-size: 100%, 100%;
+}
+.slide:nth-child(3){
+    background-color: aquamarine;
+    border-radius: 10px;
+    min-width: 1040px;
+    min-height: 600px;
+    display: none;
+    /* background-color: cyan; */
+    background-image: url(./img/photo_2021-05-19_00-39-31.jpg);
+    background-size: 100%, 100%;
+}
+.slide:nth-child(4){
+    background-color: blueviolet;
+    border-radius: 10px;
+    min-width: 1040px;
+    min-height: 600px;
+    display: none;
+    /* background-color: cyan; */
+    background-image: url(./img/photo_2021-05-19_00-36-11.jpg);
+    background-size: 100%, 100%;
+}
+.slide:nth-child(5){
+    background-color: crimson;
+    border-radius: 10px;
+    min-width: 1040px;
+    min-height: 600px;
+    display: none;
+    /* background-color: cyan; */
+    background-image: url(./img/photo_2021-05-19_00-39-26.jpg);
+    background-size: 100%, 100%;
+}
+.slide:nth-child(6){
+    background-color: darkorange;
+    border-radius: 10px;
+    min-width: 1040px;
+    min-height: 600px;
+    display: none;
+    /* background-color: cyan; */
+    background-image: url(./img/photo_2021-05-19_00-39-31.jpg);
+    background-size: 100%, 100%;
+}
+.Sosial1{
+    width: 32px;
+    height: 32px;
+    background-image: url(./img/github_logo_icon_147285.ico);
+    border-style: none;
+    background-size: 100% 100%;
+    background-color: #04091e;
+    cursor: pointer;
+
+}
+.Sosial2{
+    background-color: #04091e;
+    width: 32px;
+    height: 32px;
+    background-image: url(./img/steam_light_23367.ico);
+    border-style: none;
+    background-size: 100% 100%;
+    margin-left: 10px;
+    cursor: pointer;
+
+}
+.Sosial3{
+    background-color: #04091e;
+    width: 32px;
+    height: 32px;
+    background-image: url(./img/gratis-png-iconos-del-ordenador-telegrama.png);
+    border-style: none;
+    background-size: 100% 100%;
+    margin-left: 10px;
+    cursor: pointer;
+
+}
+.Sosials{
+    display: flex;
+}
+
+
